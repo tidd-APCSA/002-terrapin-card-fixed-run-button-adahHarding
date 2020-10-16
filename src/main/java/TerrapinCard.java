@@ -15,7 +15,7 @@ public class TerrapinCard {
     }
   }
   
-  public getBalance(){
+  public double getBalance(){
     return balance;
   }
 
